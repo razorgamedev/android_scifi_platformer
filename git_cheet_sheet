@@ -1,0 +1,4 @@
+git add . 					; add all files to git
+git push origin master 		; push the commit, change master to a branch
+git checkout -b _____ 		; creates a new branch
+git checkout master 		; go back to master
